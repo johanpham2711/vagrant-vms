@@ -38,6 +38,7 @@ $ vagrant up
 ```bash
 # Check status
 $ vagrant status
+$ vagrant global-status
 
 # SSH to VM
 $ vagrant ssh
